@@ -1,12 +1,7 @@
-## Hi there 👋
+# **Important Links**
 
-<!--
+### Sever Setup
 
-**Here are some ideas to get you started:**
+- [Getting Started on our Group's Servers](https://docs.google.com/document/d/1F80BCeo13tMtb35313gTTrUdO_xo77R9jEPNjl5hckA/edit#heading=h.w32xcyvrrmi9)
+- [Setting up SSH Keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
